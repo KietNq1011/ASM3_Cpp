@@ -1,0 +1,3 @@
+﻿  MH2.cpp
+E:\Learning\FPT_funix\C++\ASM3\ASM3\MH2.cpp(141): warning C4715: 'display_2': not all control paths return a value
+  ASM3.vcxproj -> E:\Learning\FPT_funix\C++\ASM3\x64\Debug\ASM3.exe

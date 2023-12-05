@@ -41,7 +41,11 @@ int main() {
 
 		default:
 			system("cls");
+			cin.clear(); // delete error cin status
+			cin.ignore();
 			cout << "Lua chon khong hop le. Vui long nhap lai." << endl;
+			system("pause");
+			continue;
 		}
 
 		check_speed(speed, choice, speed_range_sorted);

@@ -19,12 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Car.h" />
     <ClInclude Include="MH1.h" />
     <ClInclude Include="MH2.h" />
     <ClInclude Include="MH3.h" />
     <ClInclude Include="MH4.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Car.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MH1.cpp" />
     <ClCompile Include="MH2.cpp" />

@@ -3,6 +3,7 @@
 #include "MH2.h"
 #include "MH3.h"
 #include "MH4.h"
+#include "Car.h"
 using namespace std;
 
 int main() {
@@ -14,6 +15,10 @@ int main() {
 	}
 	else return 0;
 
+	Car myCar;
+	myCar.readMSCNFromFile();
+	myCar.readSpeedRangeFromFile();
+	myCar.displayInfo();
 
 	while (true) {
 		int choice = choice_option();

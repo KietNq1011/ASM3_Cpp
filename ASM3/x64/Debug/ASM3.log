@@ -1,6 +1,2 @@
-﻿  MH1.cpp
-  MH2.cpp
-  Generating Code...
-E:\Learning\FPT_funix\C++\CPP101x_ASM3_kietntFX19645\ASM3\MH2.cpp(153): warning C4715: 'display_2': not all control paths return a value
-E:\Learning\FPT_funix\C++\CPP101x_ASM3_kietntFX19645\ASM3\MH1.cpp(197): warning C4715: 'display_1': not all control paths return a value
+﻿  Car.cpp
   ASM3.vcxproj -> E:\Learning\FPT_funix\C++\CPP101x_ASM3_kietntFX19645\x64\Debug\ASM3.exe
